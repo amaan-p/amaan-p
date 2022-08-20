@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-- 🔭 I’m currently working on Flask
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on anything Python
-- 💬 Ask me about Python, Java, etc
+- 🔭 I’m currently working on Flask<br/>
+- 🌱 I’m currently learning React<br/>
+- 👯 I’m looking to collaborate on anything Python<br/>
+- 💬 Ask me about Python, Java, etc<br/>

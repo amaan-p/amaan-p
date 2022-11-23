@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on anything Python<br/>
 - 💬 Ask me about Javascript,Python and Java<br/>
 ### :fire: My Stats :
-[![amaan-p's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaan-p&show_icons=true&theme=synthwave)](https://github.com/amaan-p/github-readme-stats)
+[![amaan-p's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaan-p&show_icons=true&theme=transparent)](https://github.com/amaan-p/github-readme-stats)
 
 ---
 

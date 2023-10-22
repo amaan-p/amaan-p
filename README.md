@@ -59,6 +59,9 @@ Let's build a smarter, more connected world together! 🌐✨
  <br/>
   <br/>
  <br/>
+ 
+ [![An image of @amaanp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amaanp)](https://holopin.io/@amaanp)
+ 
   <div>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaan-p&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </div>

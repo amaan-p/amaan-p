@@ -4,7 +4,7 @@
 
 <h2 align="center"> About Me</h2>
 
-- 🎓 Third year Computer Science student, passionate about AI and web development.
+- 🎓 Third year Bacholer Computer Science student, passionate about AI and web development.
 - 🤖 Interested in diving deep into TensorFlow and Keras for building powerful AI models.
 - 💼 Actively seeking opportunities to contribute to open source projects and always ready for new challenges.
 

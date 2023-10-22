@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amaan-p.amaan-p">
 
 <h1 align="center">👋 Hey there, I'm Amaan Patel! </h1>
 

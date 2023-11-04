@@ -76,7 +76,7 @@ Let's build a smarter, more connected world together! 🌐✨
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/amaan-p/Handwriting-classification-using-Mnist-dataset" title="Handwriting-classification-using-Mnist-dataset"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amaan-p&repo=Handwriting-classification-using-Mnist-dataset&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/amaan-p/Weather-App-Using-Flask" title="Copy&Weather-App-Using-Flask"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amaan-p&repo=Weather-App-Using-Flask&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/amaan-p/ReEarth" title="Copy&ReEarth"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amaan-p&repo=ReEarth&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 

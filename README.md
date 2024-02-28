@@ -44,45 +44,14 @@ Let's build a smarter, more connected world together! 🌐✨
 
 <br>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<h2 align="center">⚡ Holopin ⚡</h2>
 
-  <div align=center>
-    <a href="https://github.com/amaan-p/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=amaan-p&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/amaan-p/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=amaan-p&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-
- <br/>
   <br/>
  <br/>
  
  [![An image of @amaanp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amaanp)](https://holopin.io/@amaanp)
  
-  <div>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaan-p&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  </div>
-
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/amaan-p/Scholars-Domain" title="Scholars-Domain"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amaan-p&repo=Scholars-Domain&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/amaan-p/Alexandria" title="Alexandria"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amaan-p&repo=Alexandria&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/amaan-p/Handwriting-classification-using-Mnist-dataset" title="Handwriting-classification-using-Mnist-dataset"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amaan-p&repo=Handwriting-classification-using-Mnist-dataset&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/amaan-p/ReEarth" title="Copy&ReEarth"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amaan-p&repo=ReEarth&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/amaan-p?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+ 
 
 
 <!--
